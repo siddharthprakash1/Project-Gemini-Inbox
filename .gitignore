@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.env/
+.env
+
+# Python bytecode and cached files
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST.in
+
+# User-specific files and secrets
+token.pickle
+credentials.json
+
+# Log files and temporary files
+*.log
+*.tmp
