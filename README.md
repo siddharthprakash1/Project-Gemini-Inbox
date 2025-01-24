@@ -6,6 +6,8 @@
 
 **Project Gemini-Inbox** is an AI-powered Gmail assistant designed to intelligently analyze and respond to your emails, leveraging Large Language Models (LLMs). Built with LangChain and Google's Gemini Pro model, this project automates email management, helps prioritize important messages, and drafts personalized responses to boost inbox productivity.
 
+![Project Gemini-Inbox Output Example](output.png)
+
 ## Conceptual Workflow
 
 ```mermaid
