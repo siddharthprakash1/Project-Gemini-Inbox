@@ -138,6 +138,11 @@ python -u FinalCode.py
 - Review Gmail API access permissions carefully
 - Ensure compliance with privacy regulations
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Siddharth
+
 ## Author
 
 Siddharth Prakash (iamsid0011@gmail.com)
