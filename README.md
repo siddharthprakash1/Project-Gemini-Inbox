@@ -129,7 +129,7 @@ python -u FinalCode.py
 - Implement delays between email processing
 - Consider running periodically instead of continuously
 - Optimize prompts for efficiency
-- Use paid API plans for higher quotas
+- Use paid API plans for higher quotas.
 
 ## Security Notes
 
